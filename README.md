@@ -1,6 +1,6 @@
 # 📘 Week 2 Lecture 1: Development Environment Setup Assignment
 
-## 🔹 Part 1: Contrast Between Hardhat and Foundry
+## 🔹 Contrast Between Hardhat and Foundry
 
 | **Feature**             | **Hardhat**                                                 | **Foundry**                                     |
 |-------------------------|-------------------------------------------------------------|-------------------------------------------------|
@@ -29,13 +29,3 @@
 | **Collaboration**     | Git-based workflows (branches, PRs)                         | Not ideal for teams                    |
 | **Offline Access**    | Fully offline development                                   | Requires internet                      |
 | **Performance**       | Depends on your machine, but more powerful                  | Depends on browser/internet speed      |
-
----
-
-## ✅ Summary
-
-- **Hardhat** is ideal for JavaScript-savvy Web3 developers and integrates smoothly with frontend tools.
-- **Foundry** offers speed and Solidity-native testing, perfect for contract-first workflows.
-
-- **Local IDEs** like VS Code are scalable and collaborative—great for production projects.
-- **Remix** is browser-based and beginner-friendly—great for learning and small demos.
